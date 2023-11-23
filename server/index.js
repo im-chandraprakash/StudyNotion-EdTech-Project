@@ -17,7 +17,7 @@ dotenv.config();
 const app = express();
 
 app.use(morgan("common"));
-app.use(express.json({limit : "100mb"}));
+app.use(express.json({ limit: "100mb" }));
 app.use(cookieParser());
 app.use(
     fileUpload({
@@ -27,13 +27,12 @@ app.use(
 );
 app.use(
     cors({
-        origin: "http://localhost:3000",
+        origin: process.env.CLIENT_URL,
         credentials: true,
     })
 );
 
 cloudinaryConnect();
-
 
 app.use("/api/v1/auth", userRouter);
 app.use("/api/v1/profile", profileRouter);

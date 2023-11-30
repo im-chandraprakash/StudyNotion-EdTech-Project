@@ -1,6 +1,7 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
+# StudyNotion Online Education Platform (MERN App) [Website Link](https://study-notion-ed-tech-project-nirml7zrk.vercel.app/)
 
-![Main Page](images/mainpage.png)
+![mainpage](https://github.com/07-Chandra/StudyNotion-EdTech-Project/assets/126280482/c0eaf473-395a-4858-831a-59d50f311151)
+
 
 ## Project Description
 
@@ -69,7 +70,7 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
-![Architecture](images/architecture.png)
+![architecture](https://github.com/07-Chandra/StudyNotion-EdTech-Project/assets/126280482/d384f5da-acb7-47dd-967d-19d44ec2c80d)
 
 ## Front End
 
@@ -168,7 +169,7 @@ for an ed-tech platform, with a focus on security, reliability, and ease of use.
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
 
-![Database Schema](images/schema.png)
+![schema](https://github.com/07-Chandra/StudyNotion-EdTech-Project/assets/126280482/d7a7fd0d-46b0-4a5e-9868-a328dea65c5a)
 
 ## API Design
 

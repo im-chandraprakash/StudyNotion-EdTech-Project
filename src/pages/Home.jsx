@@ -143,6 +143,7 @@ function Home() {
                         <ExploreMore />
 
                         {/* hello */}
+                        {/* hello */}
                     </div>
                 </div>
             </div>

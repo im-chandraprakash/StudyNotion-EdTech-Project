@@ -142,8 +142,6 @@ function Home() {
                     <div className={"translate-y-[100px] w-full"}>
                         <ExploreMore />
 
-                        {/* hello */}
-                        {/* hello */}
                     </div>
                 </div>
             </div>
